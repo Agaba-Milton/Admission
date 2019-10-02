@@ -1,0 +1,8 @@
+.navbar-nuvcolor{
+    background-color:green; 
+}
+.panel-default>.panel-heading {
+    color: white !important;
+    background-color: green!important;
+    border-color: #ddd !important;
+}
